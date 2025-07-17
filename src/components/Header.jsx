@@ -116,7 +116,7 @@ function MobileNavigation(props) {
                 <CloseIcon className="h-6 w-6 text-zinc-500 dark:text-zinc-400" />
               </Popover.Button>
               <h2 className="text-sm font-medium text-zinc-600 dark:text-zinc-400">
-                Somnath Pawar
+                Jagdish Sutar
               </h2>
             </div>
             <nav className="mt-6">
