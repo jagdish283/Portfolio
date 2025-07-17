@@ -66,14 +66,14 @@ export default function About() {
               <p>
                 I enjoy working on modern tech solutions that solve real-world
                 problems. Outside of work, I love long drives, reading books,
-                and spending quality time with friends and family. I’m a social
+                and spending quality time with friends and family. I&apos;m a social
                 person who values learning and meaningful connections.
               </p>
               <p>
-                Professionally, I’m building my career around cloud
-                technologies, data platforms, and AI-driven tools. I'm certified
+                Professionally, I&apos;m building my career around cloud
+                technologies, data platforms, and AI-driven tools. I&apos;m certified
                 in Google Cloud Platform (GCP), Power BI, and GitHub Copilot,
-                and I'm currently upskilling with tools like Snowflake and other
+                and I&apos;m currently upskilling with tools like Snowflake and other
                 modern data solutions.
               </p>
               <p>
