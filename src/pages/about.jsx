@@ -100,11 +100,11 @@ export default function About() {
               </SocialLink>
               
               <SocialLink
-                href="mailto:Jagadishsutar20@gmail.com"
+                href="mailto:jagadishsutar20@gmail.com"
                 icon={MailIcon}
                 className="mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40"
               >
-                Jagadishsutar20@gmail.com
+                jagadishsutar20@gmail.com
               </SocialLink>
               <SocialLink
                 href="tel:+919503946138"
