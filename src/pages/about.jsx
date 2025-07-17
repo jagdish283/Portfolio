@@ -69,13 +69,10 @@ export default function About() {
                 and spending quality time with friends and family. I’m a social
                 person who values learning and meaningful connections.
               </p>
-              <p>
-                Professionally, I’m building my career around cloud
-                technologies, data platforms, and AI-driven tools. I'm certified
-                in Google Cloud Platform (GCP), Power BI, and GitHub Copilot,
-                and I'm currently upskilling with tools like Snowflake and other
-                modern data solutions.
-              </p>
+             <p>
+  {"Professionally, I’m building my career around cloud technologies, data platforms, and AI-driven tools. I'm certified in Google Cloud Platform (GCP), Power BI, and GitHub Copilot, and I'm currently upskilling with tools like Snowflake and other modern data solutions."}
+</p>
+
               <p>
                 This portfolio showcases my journey, skills, and the projects I’m proud of. Thanks for visiting — let’s connect!
               </p>
