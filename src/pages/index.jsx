@@ -151,9 +151,9 @@ export default function Home({ blogs }) {
             <Container className="mt-9">
                 <div className="max-w-4xl">
                     <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-  {"I'm a Cloud Engineer and Software Developer with a passion for data analytics, AI, and building innovative solutions as a budding entrepreneur."}
-</h1>
-
+                        I'm a Cloud Engineer and Software Developer with a passion for data analytics, AI, and building innovative solutions 
+                            as a budding entrepreneur.
+                    </h1>
                     <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
                         Hello! I’m Jagdish — a self-motivated and creative tech enthusiast from Pune, with a growing expertise in data analytics, cloud engineering, and AI.
                         With a solid foundation in software development and a keen interest in solving real-world problems through technology, I specialize in building scalable data-driven applications and intelligent systems.
