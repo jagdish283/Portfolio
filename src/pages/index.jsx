@@ -155,7 +155,7 @@ export default function Home({ blogs }) {
                             as a budding entrepreneur.
                     </h1>
                     <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-                        Hello! I’m Jagdish — a self-motivated and creative tech enthusiast from Pune, with a growing expertise in data analytics, cloud engineering, and AI.
+                        Hello! I’m Jagdish — a self-motivated and creative tech enthusiast from Bangalore, with a growing expertise in data analytics, cloud engineering, and AI.
                         With a solid foundation in software development and a keen interest in solving real-world problems through technology, I specialize in building scalable data-driven applications and intelligent systems.
                         My journey so far has been shaped by hands-on experience in Python, SQL, Snowflake, Power BI, and Informatica, along with a deep curiosity for AI, machine learning, and data engineering. I thrive in fast-paced, collaborative environments where I can learn, build, and innovate.
                         Currently, I’m also exploring the entrepreneurial path — turning ideas into impactful digital solutions that can make a difference.
