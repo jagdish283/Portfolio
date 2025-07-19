@@ -38,7 +38,7 @@ export default function About() {
         <title>About - Jagdish Sutar</title>
         <meta
           name="description"
-          content="Hi, I'm Jagdish Sutar — a passionate Cloud Engineer and AI enthusiast based in Bangalore, India."
+          content="Hi, I&apos;m Jagdish Sutar — a passionate Cloud Engineer and AI enthusiast based in Bangalore, India."
         />
       </Head>
       <Container className="mt-16 sm:mt-32">
@@ -60,7 +60,7 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                I’ve been passionate about creating and exploring technology for
+                I&apos;ve been passionate about creating and exploring technology for
                 as long as I can remember. I wrote my first program in BASIC,
                 and that early curiosity led me into the world of cloud, AI, and
                 data.
@@ -72,7 +72,7 @@ export default function About() {
                 person who values learning and meaningful connections.
               </p>
               <p>
-                Professionally, I’m building my career around cloud
+                Professionally, I&apos;m building my career around cloud
                 technologies, data platforms, and AI-driven tools. I'm certified
                 in Google Cloud Platform (GCP), Power BI, and GitHub Copilot,
                 and I'm currently upskilling with tools like Snowflake and other
@@ -80,7 +80,7 @@ export default function About() {
               </p>
               <p>
                 This portfolio showcases my journey, skills, and the projects
-                I’m proud of. Thanks for visiting — let’s connect!
+                I&apos;m proud of. Thanks for visiting — let’s connect!
               </p>
             </div>
           </div>
