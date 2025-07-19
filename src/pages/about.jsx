@@ -2,6 +2,8 @@ import Image from 'next/future/image';
 import Head from 'next/head';
 import Link from 'next/link';
 import clsx from 'clsx';
+import { ArrowDownTrayIcon  } from '@heroicons/react/24/outline';
+
 
 import { Container } from '@/components/Container';
 import {
@@ -70,14 +72,15 @@ export default function About() {
                 person who values learning and meaningful connections.
               </p>
               <p>
-                Professionally, I&apos;m building my career around cloud
-                technologies, data platforms, and AI-driven tools. I&apos;m certified
+                Professionally, I’m building my career around cloud
+                technologies, data platforms, and AI-driven tools. I'm certified
                 in Google Cloud Platform (GCP), Power BI, and GitHub Copilot,
-                and I&apos;m currently upskilling with tools like Snowflake and other
+                and I'm currently upskilling with tools like Snowflake and other
                 modern data solutions.
               </p>
               <p>
-                This portfolio showcases my journey, skills, and the projects I’m proud of. Thanks for visiting — let’s connect!
+                This portfolio showcases my journey, skills, and the projects
+                I’m proud of. Thanks for visiting — let’s connect!
               </p>
             </div>
           </div>
@@ -98,7 +101,16 @@ export default function About() {
               >
                 Follow on LinkedIn
               </SocialLink>
-              
+              <SocialLink
+                href="\JagdishSutar_Resume.pdf"
+                aria-label="Get My Resume"
+                icon={ArrowDownTrayIcon} // You can use any appropriate icon
+                className="mt-4"
+                download
+              >
+                Get My Resume
+              </SocialLink>
+
               <SocialLink
                 href="mailto:jagadishsutar20@gmail.com"
                 icon={MailIcon}
