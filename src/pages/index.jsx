@@ -20,7 +20,7 @@ import { formatDate } from '@/lib/formatDate';
 import { CERTIFICATIONS, WORK } from '@/lib/constants';
 import clsx from 'clsx';
 import WinkImage from '@/images/photos/wink.png';
-import { ArrowDownTrayIcon } from '@heroicons/react/24/solid'
+import { ArrowDownTrayIcon } from '@heroicons/react/24/solid';
 
 function ArrowDownIcon(props) {
   return (
