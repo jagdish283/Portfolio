@@ -73,14 +73,14 @@ export default function About() {
               </p>
               <p>
                 Professionally, I&apos;m building my career around cloud
-                technologies, data platforms, and AI-driven tools. I'm certified
+                technologies, data platforms, and AI-driven tools. I&apos;m certified
                 in Google Cloud Platform (GCP), Power BI, and GitHub Copilot,
-                and I'm currently upskilling with tools like Snowflake and other
+                and I&apos;m currently upskilling with tools like Snowflake and other
                 modern data solutions.
               </p>
               <p>
                 This portfolio showcases my journey, skills, and the projects
-                I&apos;m proud of. Thanks for visiting — let’s connect!
+                I&apos;m proud of. Thanks for visiting — let&apos;s connect!
               </p>
             </div>
           </div>
