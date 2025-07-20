@@ -9,27 +9,26 @@ import logodrowsy from '@/images/logos/drowsy.svg';
 
 const projects = [
   {
-    name: 'SMS Spam Filter Using ML',
-    description:
-      'Real-Time SMS Spam Filter using Telegram & ML',
-    link: { href: 'https://github.com/jagdish283/SMS_Spam_Filter_Using_ML', label: 'Github' },
+    name: 'SMS Spam Filter Using Telegram And ML',
+    description: 'Real-Time SMS Spam Filter using Machine Learning and Telegram to classify and block spam messages instantly.',
+    link: {
+      href: 'https://github.com/jagdish283/SMS_Spam_Filter_Using_ML',
+      label: 'Github',
+    },
     logo: logoPlanetaria,
   },
 
   {
     name: 'Driver Drowsiness Detection',
     description:
-      'Driver Drowsiness Detection',
-    link: { href: 'https://github.com/jagdish283/Driver-Drowsiness-Detection-', label: 'Github' },
+      'Real-time driver drowsiness alert system using Python and OpenCV to detect eye closure and fatigue.',
+    link: {
+      href: 'https://github.com/jagdish283/Driver-Drowsiness-Detection-',
+      label: 'Github',
+    },
     logo: logodrowsy,
-  }
-
-  
+  },
 ];
-
-
-  
-
 
 function LinkIcon(props) {
   return (
