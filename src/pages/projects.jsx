@@ -5,6 +5,7 @@ import { Card } from '@/components/Card';
 import { SimpleLayout } from '@/components/SimpleLayout';
 
 import logoPlanetaria from '@/images/logos/Spam.svg';
+import logodrowsy from '@/images/logos/drowsy.svg';
 
 const projects = [
   {
@@ -14,8 +15,21 @@ const projects = [
     link: { href: 'https://github.com/jagdish283/SMS_Spam_Filter_Using_ML', label: 'Github' },
     logo: logoPlanetaria,
   },
+
+  {
+    name: 'Driver Drowsiness Detection',
+    description:
+      'Driver Drowsiness Detection',
+    link: { href: 'https://github.com/jagdish283/Driver-Drowsiness-Detection-', label: 'Github' },
+    logo: logodrowsy,
+  }
+
   
 ];
+
+
+  
+
 
 function LinkIcon(props) {
   return (
