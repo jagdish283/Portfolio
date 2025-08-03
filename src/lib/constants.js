@@ -4,9 +4,6 @@ import logoPowerBI from '@/images/logos/Power-BI.png';
 import logoGCP from '@/images/logos/Associate-CloudEngineer.png';
 import snowproLogo from '@/images/logos/Snowflake.png';
 
-
-
-
 export const WORK = [
   {
     company: 'Wipro',
